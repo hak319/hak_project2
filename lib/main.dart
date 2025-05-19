@@ -1,4 +1,4 @@
-import 'package:chungju_alswns/toto_local_page.dart';
+import 'package:hak_project_2/toto_local_page.dart';
 import 'package:flutter/material.dart';
 import 'package:hak_project_2/toto_local_page.dart';
 
